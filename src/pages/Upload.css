@@ -1,0 +1,36 @@
+.upload{
+   width : 60%;
+   margin:  1rem auto;
+}
+
+.dropzone-ui{
+   color  : rgb(84, 111, 255);
+   border-color: rgb(84, 111, 255);
+}
+
+.upload-show {
+   /* margin-top : 1rem; */
+   border : 1px solid #ddd;
+   height : 600px;
+   display: flex;
+}
+
+.upload-image{
+   width : 65%;
+   border-right: 1px solid #ddd;
+   height : 100%;
+   display : flex;
+   justify-content : center;
+   align-items : center;
+}
+
+.upload-image img{
+   max-height: 600px;
+   max-width: 700px;
+  
+}
+
+.upload-predict .license-plate{
+   color : #fff;
+   background-color : #007bff
+}

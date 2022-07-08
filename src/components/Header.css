@@ -1,0 +1,73 @@
+.header{
+   border-bottom: 1px solid rgba(223, 230, 233,1.0);
+   height : 80px;
+   box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+
+.header .header-content{
+   width : 60%;
+   margin : 0 auto;
+   display: flex;
+   justify-content: space-between;
+   height: 100%;
+   
+   
+}
+.header-left{
+   flex : 1;
+   display: flex;
+   flex-wrap: wrap; /* Optional. only if you want the items to wrap */
+   /* For horizontal alignment */
+    /* align-items: center; */
+  
+}
+.header-left div {
+   margin : auto 0;
+   font-weight: bold;
+   
+   /* height :100%; */
+}
+.header-right {
+   flex :3;
+}
+.header-right ul{
+   list-style: none;
+   display: flex;
+   flex-direction: row;
+   align-items:center;
+   justify-content: center;
+   flex-wrap: wrap;
+   margin: 0 auto; 
+   height: 100%;
+   font-weight: 500;
+   font-size: 0.9rem;
+}
+
+.header-right ul li {
+   flex : 1;
+   
+}
+
+.header-right ul li:hover{
+   cursor: pointer;
+   color :rgb(84, 111, 255);
+}
+.header-left img{
+   width : 20px;
+   height : 20px;
+}
+
+.header-right ul li button{
+   color : rgb(84, 111, 255);
+   border: 1px solid rgb(84, 111, 255);
+   height : 40px;
+   width : 180px;
+   border-radius: 3px;
+   font-weight: 600;
+   
+}
+.header-right ul li:last-child{
+   flex : 2;
+   display: flex;
+   justify-content: flex-end;
+}
