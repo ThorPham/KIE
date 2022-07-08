@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/KIE/static/css/main.6299e222.css",
+    "main.js": "/KIE/static/js/main.2def22ac.js",
+    "static/js/787.3366c2a4.chunk.js": "/KIE/static/js/787.3366c2a4.chunk.js",
+    "static/media/BlogReceipt-1.gif": "/KIE/static/media/BlogReceipt-1.ca29b6a1fba8aa0a855c.gif",
+    "static/media/_Group 9605.svg": "/KIE/static/media/626161212a08cb8d8e8d4f18_Group 9605.ed4726e24183342df5bf594cc60df5bc.svg",
+    "static/media/_Mask group-2.svg": "/KIE/static/media/62616898d4573b2f074e6bc6_Mask group-2.7f1218dabd787793c45f1a9d1c2d3f3b.svg",
+    "static/media/_Group 9681.svg": "/KIE/static/media/626161644e046d7a031ce3bc_Group 9681.aa1d14b876e7a0872e63cec7a8539014.svg",
+    "static/media/_Group 9702.svg": "/KIE/static/media/62615d87a55dcef20fd2bebe_Group 9702.8bb7d09168913b909830ca959ff5ad24.svg",
+    "index.html": "/KIE/index.html",
+    "main.6299e222.css.map": "/KIE/static/css/main.6299e222.css.map",
+    "main.2def22ac.js.map": "/KIE/static/js/main.2def22ac.js.map",
+    "787.3366c2a4.chunk.js.map": "/KIE/static/js/787.3366c2a4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6299e222.css",
+    "static/js/main.2def22ac.js"
+  ]
+}
