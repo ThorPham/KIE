@@ -10,7 +10,7 @@ export default function Header() {
           <div>
            <Link to="/" style={{textDecoration:"none",color:"rgb(84, 111, 255)"}}>
            <img src={logo} alt="" />
-            <span> KIE</span>
+            <span style={{fontSize:"26px"}}> KIE</span>
            </Link>
           </div>
         </div>
